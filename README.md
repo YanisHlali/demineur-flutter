@@ -22,7 +22,7 @@ Cette application est une version du jeu du démineur développée avec Flutter.
 
 1. Assurez-vous d'avoir Flutter installé sur votre machine.
 2. Clonez ce dépôt avec la commande suivante :
-git clone https://github.com/YanisHlali/demineur-flutter
+git clone https://github.com/YanisHlali/demineur-flutter.git
 3. Accédez au répertoire du projet :
 cd demineur-flutter
 4. Installez les dépendances du projet en exécutant la commande suivante :
